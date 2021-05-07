@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="account_create">Create Account?</string>
+    <string name="name">Shop Name</string>
+    <string name="Mobile">Mobile</string>
+    <string name="email_id">Email Id</string>
+    <string name="address">Address</string>
+    <string name="etLicenceNumber">Licence Number</string>
+    <string name="etLicenceNumber2">Licence Number2</string>
+    <string name="gst">GST No.</string>
+    <string name="sing_up">Singup</string>
+    <string name="wrongEmail">Wrong Email Id</string>
+    <string name="noInternet">No Internet</string>
+    <string name="tenDigitMobile">Please Enter 10 Digits Mobile Number</string>
+    <string name="sixDigitsPass">Please Enter Minimum 6 Digits Password</string>
+    <string name="checkMobilePass">Check Mobile Number And Password</string>
+    <string name="mobilePassForLogin">Enter Mobile Number And Password For Login</string>
+    <string name="enterEmail">Enter Valid Email</string>
+    <string name="required">Required</string>
+    <string name="passRequired">Password Required</string>
+    <string name="sixDigitPassReqed">Minimum 6 Digit Password Required</string>
+</resources>
